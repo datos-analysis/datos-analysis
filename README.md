@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @datos-analysis
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning CourseEra
